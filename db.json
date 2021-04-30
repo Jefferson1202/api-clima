@@ -1,12 +1,12 @@
 {
-  "temperaturaSP": [
-    { 
-    "id": 1, 
-    "temp_max": "22°C", 
-    "tem_min": "13°C",
-    "sen_ter" "18°C"
-    }
-    
-   
-  ]
+  "cep": "01001-000",
+  "logradouro": "Praça da Sé",
+  "complemento": "lado ímpar",
+  "bairro": "Sé",
+  "localidade": "São Paulo",
+  "uf": "SP",
+  "ibge": "3550308",
+  "gia": "1004",
+  "ddd": "11",
+  "siafi": "7107"
 }
