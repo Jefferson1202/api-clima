@@ -1,0 +1,12 @@
+{
+  "temperaturaSP": [
+    { 
+    "id": 1, 
+    "temp_max": "22°C", 
+    "tem_min": "13°C",
+    "sen_ter" "18°C"
+    }
+    
+   
+  ]
+}
